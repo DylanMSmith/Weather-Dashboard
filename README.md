@@ -7,5 +7,4 @@ This challenge involved creating a dashboard that provides weather conditions fo
 ![webpage screenshot](./images/capture.png)
 
 ## Application Link
-
- 
+https://dylanmsmith.github.io/Weather-Dashboard/
